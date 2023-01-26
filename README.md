@@ -14,7 +14,3 @@ Hi, I'm A M Sanjeev. <br>I'm a third-year computer science and engineering stude
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=amsanjeev28&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
