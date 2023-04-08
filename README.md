@@ -5,15 +5,7 @@ Hi, I'm A M Sanjeev. <br>I'm a third-year computer science and engineering stude
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-m-sanjeev-456431207/?originalSubdomain=in) 
-
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white&link=mailto:your-email-address)](mailto:amsanjeev28@gmail.com)
-
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white&link=mailto:your-email-address)](mailto:206320028@gkv.ac.in)
-
-[![YouTube Badge](https://img.shields.io/badge/-YouTube-red?style=flat&logo=YouTube&logoColor=white&link=your-youtube-channel-link)](https://www.youtube.com/@amsanjeev28/channels)
-
-[![Book Badge](https://img.shields.io/badge/-Book-blue?style=flat&logo=book&logoColor=white&link=your-book-link)](https://dev-academy.com/contributors/a-m-sanjeev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-m-sanjeev-456431207/?originalSubdomain=in)     [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white&link=mailto:your-email-address)](mailto:amsanjeev28@gmail.com)   [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white&link=mailto:your-email-address)](mailto:206320028@gkv.ac.in)   [![YouTube Badge](https://img.shields.io/badge/-YouTube-red?style=flat&logo=YouTube&logoColor=white&link=your-youtube-channel-link)](https://www.youtube.com/@amsanjeev28/channels)   [![Book Badge](https://img.shields.io/badge/-Book-blue?style=flat&logo=book&logoColor=white&link=your-book-link)](https://dev-academy.com/contributors/a-m-sanjeev)
 
 
 
