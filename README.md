@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hey there! I'm A M Sanjeev,
 
-🤓 I'm currently in my third year of computer science and engineering studies at FET, Gurukula Kangri (Deemed to be University) Haridwar, Uttarakhand. 💻📚
+🤓 I'm currently in my 3rd year of Computer Science and Engineering at FET, Gurukula Kangri (Deemed to be University) Haridwar, Uttarakhand. 💻📚
 
 👨‍💻 As a self-proclaimed coding addict, I thrive on developing 🔨 awesome web apps and crushing those tricky coding challenges. And let's be honest, who doesn't love debugging 😜🐛?
 
