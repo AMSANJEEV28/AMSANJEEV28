@@ -1,5 +1,15 @@
 # 💫 About Me:
-Hi, I'm A M Sanjeev. <br>I'm a third-year computer science and engineering student at FET, Gurukula Kangri (Deemed to be University) Haridwar, Uttarakhand. I like Web development, content writing, event planning, and leading team. I constantly look for opportunities to apply skills in a demanding setting and to pick up new skills. I'm currently working as a teaching assistant at Pupilfirst and a Technical content contributor at Dev Academy.
+👋 Hey there! I'm A M Sanjeev,
+
+🤓 I'm currently in my third year of computer science and engineering studies at FET, Gurukula Kangri (Deemed to be University) Haridwar, Uttarakhand. 💻📚
+
+👨‍💻 As a self-proclaimed coding addict, I thrive on developing 🔨 awesome web apps and crushing those tricky coding challenges. And let's be honest, who doesn't love debugging 😜🐛?
+
+📝 When I'm not typing away at my keyboard, you can find me flexing my writing skills by crafting engaging content that'll make even the most stubborn reader crack a smile 😎📝.
+
+🎉 But wait, there's more! I'm also a master event planner, and I love leading teams to victory 🏆👥. Give me a project, and I'll make it happen 💪.
+
+🔎 I'm always on the hunt for new opportunities to learn and grow, so don't hesitate to hit me up if you have a challenge that needs solving 🤙.
 
 
 
