@@ -19,7 +19,7 @@ I'm always seeking new opportunities to learn and grow. If you have a challenge 
 
 # 📊 GitHub Stats:
 ![](https://komarev.com/ghpvc/?username=amsanjeev28&theme=vue-dark&hide_border=false&style=for-the-badge)<br/><br/>
-![](https://github-readme-stats.vercel.app/api?username=amsanjeev28&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amsanjeev28&show_icons=true&locale=en" alt="amsanjeev28" /></p>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=amsanjeev28&theme=vue-dark&hide_border=false)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amsanjeev28&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/><br/>
 
