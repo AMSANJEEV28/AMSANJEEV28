@@ -35,9 +35,9 @@ I'm a 3rd-year Computer Science and Engineering student at FET, Gurukula Kangri 
 # 📊 GitHub Stats:
 ![](https://komarev.com/ghpvc/?username=amsanjeev28&theme=olive&hide_border=false&style=for-the-badge)<br/><br/>
 
-![](https://github-readme-stats.vercel.app/api?username=amsanjeev28&show_icons=true&locale=en&theme=olive&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=amsanjeev28&show_icons=true&locale=en&theme=vue-dark&hide_border=false)<br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=amsanjeev28&theme=olive&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=amsanjeev28&theme=dark-vue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amsanjeev28&theme=olive&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
 ## 🏆 GitHub Trophies
