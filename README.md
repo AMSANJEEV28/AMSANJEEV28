@@ -23,7 +23,7 @@ I'm a 3rd-year Computer Science and Engineering student at FET, Gurukula Kangri 
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-brightgreen?style=for-the-badge&logo=web&logoColor=white)](https://amsanjeev.com)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:amsanjeev28@gmail.com)](mailto:amsanjeev28@gmail.com)
-[![University Email](https://img.shields.io/badge/-University%20Email-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:206320028@gkv.ac.in)](mailto:206320028@gkv.ac.in)
+[![University Email](https://img.shields.io/badge/-University%20Email-blue?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:206320028@gkv.ac.in)](mailto:206320028@gkv.ac.in)
 [![YouTube](https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=YouTube&logoColor=white&link=your-youtube-channel-link)](https://www.youtube.com/@amsanjeev28/channels)
 [![Blog](https://img.shields.io/badge/-Blog-blue?style=for-the-badge&logo=blog&logoColor=white&link=your-blog-link)](https://dev-academy.com/contributors/a-m-sanjeev)
 
