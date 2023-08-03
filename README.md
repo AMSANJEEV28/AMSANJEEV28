@@ -16,7 +16,7 @@ I'm a 3rd-year Computer Science and Engineering student at FET, Gurukula Kangri 
 - 🎓 **Bachelor of Technology** in Computer Science and Engineering from FET, Gurukula Kangri (Deemed to Be) University, Haridwar
 - ⚡️ **Programming Languages:** JavaScript, Python
 - 🌐 **Web Development:** HTML, CSS, React, Node.js, Ruby on Rails
-- 📚 **Database:** MySQL, MongoDB
+- 📚 **Database:** MySQL, MongoDB, SQLite
 - 🚀 **Tools and Technologies:** Git, VS Code, Docker
 
 ## Let's Connect!
