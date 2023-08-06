@@ -1,6 +1,6 @@
 # Hey there! I'm A M Sanjeev 👋
 
-I'm a 3rd-year Computer Science and Engineering student at FET, Gurukula Kangri (Deemed to be University) in Haridwar, Uttarakhand. Passionate about coding, I find joy in developing web apps and solving challenging coding problems.
+I'm a final-year Computer Science and Engineering student at FET, Gurukula Kangri (Deemed to be University) in Haridwar, Uttarakhand. Passionate about coding, I find joy in developing web apps and solving challenging coding problems.
 
 ## What I Do
 
