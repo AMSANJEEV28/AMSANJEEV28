@@ -15,7 +15,7 @@ I'm a final-year Computer Science and Engineering student at FET, Gurukula Kangr
 - 💼 **Django Developer** at Aryabhatta Research Institute of Observational Sciences, Nainital
 - 🎓 **Bachelor of Technology** in Computer Science and Engineering from FET, Gurukula Kangri (Deemed to Be) University, Haridwar
 - ⚡️ **Programming Languages:** JavaScript, Python
-- 🌐 **Web Development:** HTML, CSS, React, Node.js, Ruby on Rails
+- 🌐 **Web Development:** HTML, CSS, Django, Node.js, Ruby on Rails
 - 📚 **Database:** MySQL, MongoDB, SQLite
 - 🚀 **Tools and Technologies:** Git, VS Code, Docker
 
