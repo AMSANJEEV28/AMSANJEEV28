@@ -34,6 +34,8 @@ I'm a final-year Computer Science and Engineering student at FET, Gurukula Kangr
 
 # 📊 GitHub Stats:
 ![](https://komarev.com/ghpvc/?username=amsanjeev28&theme=vue-dark&hide_border=false&bg_color=3b580a)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amsanjeev28&label=Profile%20views&color=0e75b6&style=flat" alt="amsanjeev28" /> </p>
+
 
 ![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=amsanjeev28&show_icons=true&locale=en&theme=vue-dark&hide_border=false&bg_color=3b580a)
 
