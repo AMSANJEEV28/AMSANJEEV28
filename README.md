@@ -46,8 +46,6 @@ I'm a final-year Computer Science and Engineering student at FET, Gurukula Kangr
 
 ![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=amsanjeev28&show_icons=true&locale=en&theme=vue-dark&hide_border=false&bg_color=4e4e4e)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AMSANJEEV28&&bg_color=4e4e4e)](https://github.com/anuraghazra/github-readme-stats)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amsanjeev28&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&&bg_color=4e4e4e)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=AMSANJEEV28&&bg_color=4e4e4e)  
