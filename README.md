@@ -42,15 +42,15 @@ I'm a final-year Computer Science and Engineering student at FET, Gurukula Kangr
 
 ## 📊 GitHub Stats:
 
-![](https://komarev.com/ghpvc/?username=amsanjeev28&theme=vue-dark&hide_border=false&bg_color=ffffff)
+![](https://komarev.com/ghpvc/?username=amsanjeev28&theme=vue-dark&hide_border=false&bg_color=d3d3d3)
 
-![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=amsanjeev28&show_icons=true&locale=en&theme=vue-dark&hide_border=false&bg_color=ffffff)
+![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=amsanjeev28&show_icons=true&locale=en&theme=vue-dark&hide_border=false&bg_color=d3d3d3)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AMSANJEEV28)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AMSANJEEV28&&bg_color=d3d3d3)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amsanjeev28&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=ffffff)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=amsanjeev28&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&&bg_color=d3d3d3)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=AMSANJEEV28)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=AMSANJEEV28&&bg_color=d3d3d3)  
 
 ## 🏆 GitHub Trophies
 
