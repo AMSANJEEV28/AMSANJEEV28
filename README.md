@@ -2,7 +2,7 @@
 
 I'm a final-year Computer Science and Engineering student at FET, Gurukula Kangri (Deemed to be University) in Haridwar, Uttarakhand. Passionate about coding, I find joy in developing web apps and solving challenging coding problems.
 
-![Profile](https://github.com/AMSANJEEV28/AMSANJEEV28/assets/81654437/1ec476d8-9be6-47f2-b39e-a8a48d9fdcaa)
+![profile](https://github.com/AMSANJEEV28/AMSANJEEV28/assets/81654437/8b566905-661e-405c-bf63-5a4ffe77ead4)
 
 ## What I Do
 
