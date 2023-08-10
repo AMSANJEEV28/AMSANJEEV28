@@ -61,7 +61,4 @@ I'm a final-year Computer Science and Engineering student at FET, Gurukula Kangr
 
 ![](https://github-profile-trophy.vercel.app/?username=amsanjeev28&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-
-## Github Metrics
-
-![GitHub metrics](https://metrics.lecoq.io/AMSANJEEV28)  
+  
