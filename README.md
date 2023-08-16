@@ -13,7 +13,6 @@ I'm a final-year Computer Science and Engineering student at FET, Gurukula Kangr
 - 📅 Plan and organize successful events
 - 👥 Lead and inspire teams to achieve project goals
 
-
 ## Experience and Skills
 
 - 💼 **Django Developer** at Aryabhatta Research Institute of Observational Sciences, Nainital
