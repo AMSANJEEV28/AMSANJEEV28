@@ -21,7 +21,6 @@ I'm a final-year Computer Science and Engineering student at FET, Gurukula Kangr
 - 📚 **Database:** MySQL, MongoDB, SQLite
 - 🚀 **Tools and Technologies:** Git, VS Code, Docker
 
-
 ## Let's Connect!
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-brightgreen?style=for-the-badge&logo=web&logoColor=white)](https://amsanjeev.me)
