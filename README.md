@@ -1,6 +1,6 @@
 # Hey there! I'm A M Sanjeev 👋
 
-Computer Science and Engineer from FET, Gurukula Kangri (Deemed to be University) in Haridwar, Uttarakhand. Passionate about coding, I find joy in developing web apps and solving challenging coding problems.
+Pursuing M.Tech Computer Science and Engineering from FET, Gurukula Kangri (Deemed to be University) in Haridwar, Uttarakhand. Passionate about coding, I find joy in developing web apps and solving challenging coding problems.
 
 ![profile](https://github.com/AMSANJEEV28/AMSANJEEV28/assets/81654437/8b566905-661e-405c-bf63-5a4ffe77ead4)
 
