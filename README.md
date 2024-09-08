@@ -1,7 +1,6 @@
 # Hey there! I'm A M Sanjeev 👋
 
-Pursuing M.Tech Computer Science and Engineering from FET, Gurukula Kangri (Deemed to be University) in Haridwar, Uttarakhand. Passionate about coding, I find joy in developing web apps and solving challenging coding problems.
-
+I am currently pursuing an M.Tech in Computer Science and Engineering at FET, Gurukula Kangri (Deemed to be University) in Haridwar, Uttarakhand. I have a strong passion for coding, and I enjoy creating web applications and tackling complex coding challenges.
 ![profile](https://github.com/AMSANJEEV28/AMSANJEEV28/assets/81654437/8b566905-661e-405c-bf63-5a4ffe77ead4)
 
 ## What I Do
